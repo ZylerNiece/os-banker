@@ -38,19 +38,6 @@ Your program will output the following in a standardized format.  See example be
 9.	Determine if the request can be granted.  If the request cannot be granted, then display a message indicating so and properly exit your program.  If the request can be granted, then allocate the request and display the new system state.
 
 
-## Assessment and Grading
-- This is an individual assignment.  
-- If you program your project using C/C++, Java, C#, or Python, then the maximum score you can obtain is 80%.  
-- If you program your project using any other language, then the maximum score you can obtain is 100%.  
-- Other programming languages are permitted with instructor approval.  
-- All of these programming languages are (or can be) installed on `lovelace.cs.tcu.edu`.
-- Comment and document all code submitted!  
-- Follow the documentation guidelines described online in tcuonline.  
-- Your program will be tested on `lovelace.cs.tcu.edu` or on your personal laptop.  You may do development work on your personal machine but final submissions must compile without errors or warnings and execute without core dumping.  
-- Use good programming practices by implementing procedures and functions where necessary.  
-- This project is worth 100 points. 
-
-
 ## Examples
 ### Example 1
 #### Input
