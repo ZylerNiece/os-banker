@@ -1,0 +1,11 @@
+Zyler Niece
+Operating Systems
+Bankers Algorithm
+April 17, 2023
+Instuctor: Dr. Michael Scherger
+
+To use the MakeFile simply use the command "make" in the terminal to create the executable and the "make clean" command to delete the executable.
+
+To run the bankers algorithm on a input file use "./bankers input.txt" in the terminal but replace "input.txt" with the name of your input file.
+
+A side note on this assingment. I was unable to do this project in a language besides C Java or Python but was unable to as those were the only languages I have ever been taught. I tried to teach myself Rust and do it in that language but was unable to teach myself all the syntax and how to make an executable in the week that we had to do this assignment.
